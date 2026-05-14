@@ -11,6 +11,7 @@ This section covers managing Azure AD objects, role-based access control, and su
 | 1.1 | Manage Azure AD Objects | [1.1-Manage-Azure-AD-Objects.md](./1.1-Manage-Azure-AD-Objects.md) |
 | 1.2 | Manage Role-Based Access Control (RBAC) | [1.2-Manage-RBAC.md](./1.2-Manage-RBAC.md) |
 | 1.3 | Manage Subscriptions and Governance | [1.3-Manage-Subscriptions-and-Governance.md](./1.3-Manage-Subscriptions-and-Governance.md) |
+| 1.4 | Practice Questions (15 scenarios) | [1.4-Practice-Questions.md](./1.4-Practice-Questions.md) |
 
 ---
 
